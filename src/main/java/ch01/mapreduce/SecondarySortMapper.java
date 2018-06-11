@@ -3,7 +3,6 @@ package ch01.mapreduce;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
-import shaded.parquet.org.apache.thrift.TException;
 
 import java.io.IOException;
 
